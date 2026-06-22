@@ -25,7 +25,7 @@ Projekt wykorzystuje metody wyjaśnialności do analizy odcisków palców intera
 
 Pliki explainable_ml_comprehensive_*.ipynb zawierają szczegółowe wyniki analizy wyjaśnialności dla obu receptorów, 
 podczas której są wytypowane cechy kontekstowe, kluczowe aminokwasy oraz analizy decyzji modelu.
-Dodatkowy opis znajduje się  w załączonej prezentacji.
+
 
 
 ### Zależności
